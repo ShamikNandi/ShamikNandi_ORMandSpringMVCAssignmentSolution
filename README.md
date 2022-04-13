@@ -26,5 +26,7 @@ Create following schema and add some pre existing data in database using below c
 3. Add some data into table-
 
 	insert into `customer`(id,fname,lname,email) values(1,"Neha",'Dupia','neha.Dupia12@gcustomermail.com');
+
 	insert into `customer`(id,fname,lname,email) values(2,"Rahul",'Dravid','Rahul.Dravid@yahoom.com');
+
 	insert into `customer`(id,fname,lname,email) values(3,"Neena",'Mehta','neena.mehta@rediff.com');
